@@ -1,2 +1,5 @@
 test task 1
-new line in test task
+new line is added
+
+line 1
+line 2
